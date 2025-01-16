@@ -27,7 +27,3 @@ This software is distributed under the terms outlined in the accompanying **LICE
 
 ## Contributing  
 We are not accepting direct contributions through this repository. For bug reports or suggestions, please visit the [contact us page](https://www.subtitlesphere.com).  
-
----
-
-Feel free to modify the links or adjust the text to match your branding.
